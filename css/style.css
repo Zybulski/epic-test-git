@@ -4,3 +4,10 @@ body {
 .page-header{
   display: block;
 }
+.promo {
+  font-size: 48px;
+}
+page-footer{
+  background-color: #fff;
+  color: #000;
+}
